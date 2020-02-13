@@ -1,2 +1,2 @@
 # Pyhton-Deeplearning-NeuralNetworkLearning
-A learning not of &lt;Make Your Own Neural Network>,  Tariq Rashid
+A learning note of &lt;Make Your Own Neural Network>,  Tariq Rashid
